@@ -56,6 +56,7 @@ The repository contains both fun CLI games and useful utility applications that 
 | 3 | 🐍 Snake Water Gun | CLI Game | Game logic, scoring |
 | 4 | 🎓 Student Result Manager | Management System | Dictionaries, file handling |
 | 5 | 🔐 Password Manager | Security Utility | Password generation, storage |
+| 6 | 📝 Task Manager | Productivity Utility | Task creation, viewing, task organization |
 
 ---
 # 🔍 Project Details
@@ -173,6 +174,31 @@ The repository contains both fun CLI games and useful utility applications that 
 - Data storage
 
 ---
+## 📝 6. Task Manager
+
+> A simple command-line Task Manager application to add and manage daily tasks efficiently.
+
+### ✨ Features
+- Add new tasks
+- View all saved tasks
+- Menu-driven interface
+- Simple and beginner-friendly design
+- User-friendly CLI interface
+- Multiple task management
+
+### 🛠️ Technologies Used
+- Python
+
+### 📚 Concepts Practiced
+- Lists
+- Loops
+- Exception handling
+- User Input Handling
+- Functions
+- Conditional Statements
+
+---
+
 ## 👨‍💻 Author
 
 <div align="center">
