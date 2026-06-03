@@ -57,6 +57,10 @@ The repository contains both fun CLI games and useful utility applications that 
 | 4 | 🎓 Student Result Manager | Management System | Dictionaries, file handling |
 | 5 | 🔐 Password Manager | Security Utility | Password generation, storage |
 | 6 | 📝 Task Manager | Productivity Utility | Task creation, viewing, task organization |
+| 7 |	🎯 Hangman Game |	CLI Game | Strings, loops, lists, game logic
+| 8	| 📈 Stock Portfolio Tracker | Finance Application |	Dictionaries, file handling, profit/loss calculation
+| 9	| 🤖 Rule-Based Chatbot | AI/Automation Project | Functions, conditionals, string processing, user interaction
+
 
 ---
 # 🔍 Project Details
