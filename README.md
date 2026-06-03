@@ -67,6 +67,7 @@ The repository contains both fun CLI games and useful utility applications that 
 
 ---
 
+
 ## 🧮 1. Tkinter Calculator
 
 > A modern GUI-based calculator built using Python and Tkinter.
@@ -111,6 +112,7 @@ The repository contains both fun CLI games and useful utility applications that 
 - Loops
 - User input handling
 
+
 ## 🐍 3. Snake Water Gun
 
 > A Python implementation of India's famous Snake-Water-Gun game.
@@ -153,6 +155,7 @@ The repository contains both fun CLI games and useful utility applications that 
 - File handling
 - Modular programming
 
+
 ## 🔐 5. Password Manager
 
 > A simple password manager for generating and saving secure passwords.
@@ -177,7 +180,7 @@ The repository contains both fun CLI games and useful utility applications that 
 - Functions
 - Data storage
 
----
+
 ## 📝 6. Task Manager
 
 > A simple command-line Task Manager application to add and manage daily tasks efficiently.
@@ -201,7 +204,7 @@ The repository contains both fun CLI games and useful utility applications that 
 - Functions
 - Conditional Statements
 
----
+
 ## 🎮 7. Hangman Game
 
 > A classic word-guessing game where players try to reveal a hidden word one letter at a time.
@@ -228,7 +231,7 @@ The repository contains both fun CLI games and useful utility applications that 
 - Randomization
 - User Input Handling
 
----
+
 ## 📈 8. Stock Portfolio Tracker
 
 > A Python-based stock portfolio tracker that calculates investment values using predefined stock prices.
@@ -256,6 +259,7 @@ The repository contains both fun CLI games and useful utility applications that 
 - User Input Validation
 - Functions
 
+
 ## 9. 🤖 Basic Chatbot
 
 ### ✨ Features
@@ -278,6 +282,7 @@ The repository contains both fun CLI games and useful utility applications that 
 - Conditional Statements
 - String Manipulation
 - User Input Handling
+
 
 ## 👨‍💻 Author
 
