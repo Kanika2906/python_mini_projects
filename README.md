@@ -7,7 +7,7 @@
 [![Projects](https://img.shields.io/badge/Projects-5-FF6B6B?style=for-the-badge)](.)
 [![Type](https://img.shields.io/badge/Type-Mini%20Projects-blueviolet?style=for-the-badge)](.)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge)](.)
+[![Status](https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge)](.)
 
 <br/>
 
@@ -198,6 +198,82 @@ The repository contains both fun CLI games and useful utility applications that 
 - Conditional Statements
 
 ---
+## 🎮 7. Hangman Game
+
+> A classic word-guessing game where players try to reveal a hidden word one letter at a time.
+
+### ✨ Features
+- Random word selection
+- Interactive command-line gameplay
+- Limited incorrect guesses
+- Win/Loss detection
+- User-friendly interface
+- Replay support
+
+### 🛠️ Technologies Used
+- Python
+- VS Code
+- Git
+- Github
+
+### 📚 Concepts Practiced
+- Strings
+- Lists
+- Loops
+- Conditional Statements
+- Randomization
+- User Input Handling
+
+---
+## 📈 8. Stock Portfolio Tracker
+
+> A Python-based stock portfolio tracker that calculates investment values using predefined stock prices.
+
+### ✨ Features
+- Stock selection from predefined list
+- Investment calculation
+- Quantity-based valuation
+- File handling support
+- Investment history storage
+- Exception handling
+- Colored console output
+
+### 🛠️ Technologies Used
+- Python
+- VS Code
+- Git
+- Github
+
+### 📚 Concepts Practiced
+- Dictionaries
+- File Handling
+- Exception Handling
+- Arithmetic Operations
+- User Input Validation
+- Functions
+
+## 9. 🤖 Basic Chatbot
+
+### ✨ Features
+- Interactive conversations
+- Predefined responses
+- Continuous chat loop
+- Exit functionality
+- Beginner-friendly design
+- Fast response handling
+
+### 🛠️ Technologies Used
+- Python
+- VS Code
+- Git
+- Github
+
+### 📚 Concepts Practiced
+- Functions
+- Loops
+- Conditional Statements
+- String Manipulation
+- User Input Handling
 
 ## 👨‍💻 Author
 
